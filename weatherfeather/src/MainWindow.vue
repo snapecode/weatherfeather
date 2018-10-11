@@ -16,7 +16,7 @@
               <Text>{{temp}}&deg;C</Text>
             </Box>
             <Text>{{weatherDescription}}</Text>
-            <Seperator horizontal/>
+            <Separator horizontal/>
             <Box padded horizontal>
               <Text stretchy>Min:{{tempMin}}&deg;C</Text>
               <Text stretchy>Max:{{tempMax}}&deg;C</Text>
