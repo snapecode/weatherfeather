@@ -1,7 +1,7 @@
 # weatherfeather
 
 >This is a lightweight Weather App for Desktop.
->Built Using Vuido for Vue.js
+>Built Using Vuido Library for Vue.js
 
 ## Build Setup
 
