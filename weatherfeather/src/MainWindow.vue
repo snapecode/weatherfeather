@@ -9,7 +9,7 @@
       <Separator horizontal/>
       <Group margined>
         <Box padded>
-          <Text v-if="error">Sorry, we don't have a have no weather data for that place.</Text>
+          <Text v-if="error">Sorry, we don't have any weather data for that place.</Text>
           <Box v-if="!!city">
             <Box padded horizontal>
               <Text stretchy>{{city}}, {{country}}</Text>
